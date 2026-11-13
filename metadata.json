@@ -1,0 +1,6 @@
+{
+  "name": "RozgarHub - Sahi Kaam, Sahi Daam",
+  "description": "India's trusted home construction & repair worker discovery app. Apne area ke verified Rajmistri, Plumber, Electrician aur Labour se seedha judein — bina kisi dalal ke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
